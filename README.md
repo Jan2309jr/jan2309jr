@@ -1,8 +1,60 @@
-## Hi there 👋
-###📫 **How to reach me:**
-[![Linkedin](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>)](https://www.linkedin.com/in/janani2309/))
-[![Mail](Image_URL)](Target_URL)
-[![My Page](Image_URL)](Target_URL)
+<h1 align="center">Hi 👋, I'm Janani Ravi</h1>
+<h3 align="center">A passionate learner and developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Loves+solving+real+world+problems;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🔭 I’m currently working on **Chat Score Prediction using Machine Learning**
+- 🌱 I’m learning **LightGBM, CatBoost & Model Optimization**
+- 💡 Interested in **AI, Data Science, and Full Stack Development**
+- 📝 I write notes & mini blogs on ML and CS fundamentals
+
+---
+
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-003366?style=for-the-badge&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-FF6600?style=for-the-badge&logo=catboost&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
 
 <!--
 **Jan2309jr/Jan2309jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
